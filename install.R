@@ -1,7 +1,1 @@
-install.packages(c(
-  "tidyverse",
-  "readxl",
-  "rstatix",
-  "dunn.test",
-  "effectsize"
-))
+install.packages(c("rstatix", "dunn.test", "effectsize"))
