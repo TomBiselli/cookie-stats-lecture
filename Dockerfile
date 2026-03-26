@@ -1,3 +1,6 @@
-FROM rocker/rstudio:4.3.0
+FROM rocker/verse:4.3.0
 
-RUN R -e "install.packages(c('tidyverse','readxl','rstatix','dunn.test','effectsize'), repos='https://cloud.r-project.org')"
+ENV RENV_CONFIG_REPOS_OVERRIDE="https://packagemanager.posit.co/cran/__linux__/jammy/latest"
+
+RUN install2.r --error --skipinstalled \
+    readxl rstatix dunn.test effectsize
