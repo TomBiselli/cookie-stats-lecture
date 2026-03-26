@@ -10,7 +10,9 @@
 
 
 # ── 0. SETUP ────────────────────────────────────────────────
-# Run this block first — loads all packages we need today
+# Run this block first — installs and loads all packages we need today
+
+install.packages(c("tidyverse","readxl","rstatix","dunn.test","effectsize"))
 
 library(tidyverse)   # data wrangling + ggplot2
 library(readxl)      # read Excel files
