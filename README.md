@@ -1,7 +1,9 @@
 # Quantitative Data Analysis in HCI
 ## Guest Lecture — Mobile HCI
 
-Based on: Biselli et al. (2024). Supporting Informed Choices about Browser Cookies. *PoPETs 2024(1)*.
+Based on: Tom Biselli, Laura Utz, Christian Reuter (2024)
+Supporting Informed Choices about Browser Cookies: The Impact of Personalised Cookie Banners
+Proceedings on Privacy Enhancing Technologies (PoPETs) (1):171–191. doi:10.56553/popets-2024-0011
 
 ---
 
