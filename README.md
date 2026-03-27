@@ -12,6 +12,7 @@ Proceedings on Privacy Enhancing Technologies (PoPETs) (1):171–191. doi:10.565
 | File | Purpose |
 |---|---|
 | `analysis.R` | Full live demo script |
+| `kruskal_wallis_complete.R` | Whole pipeline for Kruskal-Wallis test |
 | `exercise.R` | Student exercise |
 | `solution.R` | Full solution to the students exercise |
 | `cookie_study_data.xlsx` | Real dataset from the paper (N = 157) |
