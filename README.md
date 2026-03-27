@@ -19,7 +19,9 @@ Proceedings on Privacy Enhancing Technologies (PoPETs) (1):171–191. doi:10.565
 
 ---
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOURUSERNAME/YOURREPONAME/main?urlpath=rstudio)
+Build
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TomBiselli/cookie-stats-lecture.git/main?urlpath=%2Fdoc%2Ftree%2Frstudio)
 
 ---
 
